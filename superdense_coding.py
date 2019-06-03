@@ -48,7 +48,7 @@ backends = BasicAer.get_backend('qasm_simulator')
 #backend_sim = IBMQ.get_backend(backends)
 
 result = execute(qc, backends, shots=1024).result()
-#the result printed would be '10'
+#the result printed would be '01'
 
 #Shows a drawing of the actual circuit
 #qc.draw()

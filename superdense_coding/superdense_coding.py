@@ -24,7 +24,7 @@ qc.cx(q_reg[0],q_reg[1])
 #Barrier necessary to prevent noise
 #qc.barrier()
 
-# If Alice wants to send '00', do not apply any gate
+# if Alice wants to send '00', do not apply any gate
 # if Alice wants to send '01' apply a PauliX gate
 # if Alice wants to send '10' apply a PauliZ gate
 # if Alice wants to send '11' apply a PauliX gate followed by a PauliZ gate

@@ -1,7 +1,7 @@
 # Superdense coding
 
 ### Superdense coding is a quantum communication protocol that uses a preparaed quantum entangled couple of qubits to increase the rate of information sent through a quantum channel.
-### With this protocol it is possible to send 2 classical bits of information using one qubit.
+### With this protocol it is possible to send 2 classical bits of information sending one qubit.
 
 <img width="880" alt="Schermata 2019-06-03 alle 14 37 25" src="https://user-images.githubusercontent.com/37590676/58802769-4530c900-860e-11e9-845b-1806f939834a.png">
 
